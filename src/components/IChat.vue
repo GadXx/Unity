@@ -1,0 +1,18 @@
+<template>
+  <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0568 1.00016C7.54687 0.985979 4.28557 2.80712 2.4605 5.80043C0.635434 8.79374 0.512919 12.5224 2.13757 15.6287L2.33789 16.0192C2.50209 16.3265 2.53644 16.6865 2.43329 17.0192C2.14742 17.7784 1.90849 18.5545 1.71784 19.343C1.71784 19.743 1.83231 19.9716 2.26158 19.962C3.0219 19.7941 3.77068 19.5778 4.50332 19.3144C4.81886 19.2275 5.15437 19.2476 5.45725 19.3716C5.73389 19.5049 6.2967 19.8478 6.31578 19.8478C9.99154 21.7805 14.4808 21.2473 17.5998 18.5075C20.7187 15.7677 21.8199 11.3901 20.3676 7.50411C18.9153 3.61817 15.2111 1.03061 11.0568 1.00016V1.00016Z" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="6.28715" cy="11.0001" rx="0.476965" ry="0.47619" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="11.0568" cy="11.0001" rx="0.476965" ry="0.47619" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="15.8265" cy="11.0001" rx="0.476965" ry="0.47619" stroke="#808191" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</template>
+
+<style scoped>
+.icon path {
+  stroke: var(--icon-color);
+}
+
+.icon ellipse {
+  stroke: var(--icon-color);
+}
+</style>
